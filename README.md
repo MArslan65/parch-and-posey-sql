@@ -1,2 +1,114 @@
-# parch-and-posey-sql
-SQL queries on Parch and Posey database from beginner to advanced
+\# Parch and Posey SQL Project 🗃️
+
+
+
+\## About This Project
+
+This project contains SQL queries on the Parch and Posey database.
+
+Parch and Posey is a fictional paper selling company used to practice SQL.
+
+All queries are written in PostgreSQL.
+
+
+
+\## About The Database
+
+Parch and Posey database contains 5 tables:
+
+
+
+| Table | Description |
+
+|-------|-------------|
+
+| accounts | Companies that buy paper |
+
+| orders | All paper orders placed |
+
+| sales\_reps | Salespeople who sell paper |
+
+| region | 4 regions of the USA |
+
+| web\_events | Website visits by accounts |
+
+
+
+\## SQL Topics Covered
+
+
+
+\### 🟢 Beginner Level
+
+\- SELECT and FROM
+
+\- LIMIT
+
+\- ORDER BY
+
+\- WHERE
+
+\- AND, OR, NOT
+
+\- IN, BETWEEN, LIKE
+
+
+
+\### 🟡 Intermediate Level (Coming Soon)
+
+\- Aggregate Functions
+
+\- GROUP BY
+
+\- HAVING
+
+\- JOINS
+
+\- Aliases
+
+
+
+\### 🔴 Advanced Level (Coming Soon)
+
+\- Subqueries
+
+\- CTEs
+
+\- Window Functions
+
+\- CASE Statements
+
+\- DATE Functions
+
+
+
+\## Files
+
+| File | Description |
+
+|------|-------------|
+
+| beginner.sql | Beginner level SQL queries |
+
+| intermediate.sql | Intermediate level SQL queries |
+
+| advanced.sql | Advanced level SQL queries |
+
+
+
+\## Author
+
+\*\*Muhammad Arslan\*\*
+
+\- GitHub: \[@MArslan65](https://github.com/MArslan65)
+
+
+
+\## Tools Used
+
+\- PostgreSQL
+
+\- pgAdmin 4
+
+\- Git and GitHub
+
