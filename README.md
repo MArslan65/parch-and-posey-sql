@@ -1,4 +1,4 @@
-\# Parch and Posey SQL Project 🗃️
+\# Parch and Posey SQL Project
 
 
 
@@ -38,7 +38,7 @@ Parch and Posey database contains 5 tables:
 
 
 
-\### 🟢 Beginner Level
+\### Beginner Level
 
 \- SELECT and FROM
 
@@ -54,7 +54,7 @@ Parch and Posey database contains 5 tables:
 
 
 
-\### 🟡 Intermediate Level (Coming Soon)
+\### Intermediate Level (Coming Soon)
 
 \- Aggregate Functions
 
@@ -68,7 +68,7 @@ Parch and Posey database contains 5 tables:
 
 
 
-\### 🔴 Advanced Level (Coming Soon)
+\### Advanced Level (Coming Soon)
 
 \- Subqueries
 
@@ -98,9 +98,9 @@ Parch and Posey database contains 5 tables:
 
 \## Author
 
-\*\*Muhammad Arslan\*\*
+Muhammad Arslan
 
-\- GitHub: \[@MArslan65](https://github.com/MArslan65)
+GitHub: https://github.com/MArslan65
 
 
 
