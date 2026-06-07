@@ -26,7 +26,7 @@ Parch and Posey database contains 5 tables:
 - AND, OR, NOT
 - IN, BETWEEN, LIKE
 
-### Intermediate Level (Coming Soon)
+### Intermediate Level
 - Aggregate Functions
 - GROUP BY
 - HAVING
