@@ -33,13 +33,12 @@ Parch and Posey database contains 5 tables:
 - JOINS
 - Aliases
 
-### Advanced Level (Coming Soon)
-- Subqueries
-- CTEs
-- Window Functions
+### Advanced Level 
 - CASE Statements
+- Subqueries
+- CTEs (WITH Statement)
+- Window Functions
 - DATE Functions
-
 ## Files
 
 | File | Description |
